@@ -1,0 +1,501 @@
+TransactionId,Date,Product name,Category,Region,Sales channel,Quantity,UnitPrice,TotalAmount,PaymentMode,CustomerID
+T00001,2024-10-19,T-Shirt,Fashion,West,Online,7,72839,509873,Credit Card,C2336
+T00002,2024-11-07,Keyboard,Electronics,South,Online,6,20884,125304,Cash,C3164
+T00003,2025-05-09,Headphones,Electronics,East,Online,1,31752,31752,UPI,C1006
+T00004,2023-03-13,Laptop,Electronics,East,Offline,8,71235,569880,Net Banking,C3142
+T00005,2025-01-11,Keyboard,Electronics,North,Offline,5,75036,375180,Credit Card,C9099
+T00006,2024-01-04,Mobile,Electronics,Central,Offline,3,54606,163818,UPI,C6074
+T00007,2023-03-07,Printer,Electronics,South,Offline,5,9449,47245,Net Banking,C3470
+T00008,2023-05-09,Mobile,Electronics,North,Online,8,46015,368120,Debit Card,C4423
+T00009,2023-11-19,Air Conditioner,Home Appliances,North,Offline,9,38982,350838,Cash,C9512
+T00010,2023-11-20,Mobile,Electronics,West,Online,4,41687,166748,Net Banking,C8096
+T00011,2023-07-24,Keyboard,Electronics,North,Offline,7,13075,91525,Net Banking,C3144
+T00012,2024-12-12,Mouse,Electronics,East,Online,6,51958,311748,Credit Card,C2902
+T00013,2025-06-16,Keyboard,Electronics,South,Online,5,7112,35560,Cash,C8205
+T00014,2023-05-07,Shoes,Fashion,South,Offline,7,42884,300188,Cash,C9123
+T00015,2024-06-14,Backpack,Accessories,West,Online,10,74242,742420,Net Banking,C7686
+T00016,2023-07-03,T-Shirt,Fashion,Central,Online,6,52461,314766,Net Banking,C6244
+T00017,2023-04-04,Keyboard,Electronics,South,Online,1,4014,4014,Cash,C1942
+T00018,2023-03-13,Keyboard,Electronics,North,Offline,5,45173,225865,UPI,C7382
+T00019,2023-04-17,Printer,Electronics,West,Online,6,8414,50484,Debit Card,C2883
+T00020,2024-09-13,Backpack,Accessories,Central,Offline,2,5102,10204,Credit Card,C7571
+T00021,2023-12-20,Mobile,Electronics,Central,Offline,8,2062,16496,Debit Card,C3784
+T00022,2023-10-29,Backpack,Accessories,South,Online,7,42304,296128,UPI,C8001
+T00023,2025-06-04,Tablet,Electronics,South,Online,6,17941,107646,Cash,C7715
+T00024,2023-10-30,Mouse,Electronics,East,Offline,1,30434,30434,Cash,C1436
+T00025,2023-04-24,Camera,Electronics,Central,Online,2,45832,91664,Debit Card,C2520
+T00026,2023-05-20,Printer,Electronics,East,Online,3,46194,138582,Debit Card,C7457
+T00027,2025-01-15,Tablet,Electronics,North,Online,6,28889,173334,Net Banking,C1307
+T00028,2024-03-20,Shoes,Fashion,Central,Online,6,32472,194832,UPI,C2507
+T00029,2024-04-25,Headphones,Electronics,North,Online,4,1232,4928,UPI,C7516
+T00030,2024-02-24,Shoes,Fashion,Central,Offline,7,14770,103390,UPI,C6011
+T00031,2025-06-06,Backpack,Accessories,West,Online,1,57887,57887,Debit Card,C1191
+T00032,2023-03-02,Mouse,Electronics,West,Online,5,2469,12345,UPI,C2793
+T00033,2025-02-24,Shoes,Fashion,North,Online,9,47817,430353,Net Banking,C9805
+T00034,2025-02-15,Shoes,Fashion,West,Offline,2,43491,86982,Debit Card,C5830
+T00035,2023-05-26,Headphones,Electronics,East,Online,7,50726,355082,Net Banking,C5627
+T00036,2025-03-18,Keyboard,Electronics,North,Offline,2,44758,89516,Credit Card,C4300
+T00037,2024-10-26,Air Conditioner,Home Appliances,South,Online,7,3248,22736,Cash,C8890
+T00038,2023-01-29,Keyboard,Electronics,East,Offline,2,47461,94922,Debit Card,C4778
+T00039,2025-01-13,Keyboard,Electronics,Central,Offline,8,62021,496168,Cash,C6575
+T00040,2024-02-13,T-Shirt,Fashion,West,Offline,10,29482,294820,Cash,C1998
+T00041,2023-09-26,Tablet,Electronics,North,Offline,10,2235,22350,Credit Card,C2567
+T00042,2024-04-08,Monitor,Electronics,East,Offline,6,60373,362238,Net Banking,C3115
+T00043,2024-07-17,Headphones,Electronics,North,Offline,9,4611,41499,Cash,C8182
+T00044,2023-07-10,Mobile,Electronics,West,Offline,10,62682,626820,Cash,C1264
+T00045,2024-05-22,Refrigerator,Home Appliances,North,Online,10,63228,632280,Cash,C5632
+T00046,2024-07-07,Keyboard,Electronics,Central,Offline,3,22811,68433,UPI,C6502
+T00047,2023-10-24,Mouse,Electronics,North,Offline,8,51504,412032,Credit Card,C6424
+T00048,2023-06-26,Tablet,Electronics,West,Online,5,14583,72915,Debit Card,C1243
+T00049,2025-01-24,T-Shirt,Fashion,East,Offline,5,18164,90820,Net Banking,C6503
+T00050,2025-03-18,Tablet,Electronics,East,Online,5,25398,126990,Debit Card,C9205
+T00051,2025-02-22,Camera,Electronics,Central,Online,10,74327,743270,Cash,C1981
+T00052,2023-12-29,Camera,Electronics,East,Offline,9,47218,424962,UPI,C4741
+T00053,2023-07-07,Tablet,Electronics,South,Offline,3,33092,99276,Debit Card,C2452
+T00054,2025-05-22,Air Conditioner,Home Appliances,West,Offline,9,2087,18783,Net Banking,C3279
+T00055,2023-01-21,Camera,Electronics,West,Offline,8,23353,186824,UPI,C4763
+T00056,2025-02-28,Headphones,Electronics,North,Online,4,71418,285672,Cash,C3562
+T00057,2024-03-25,Monitor,Electronics,North,Online,9,64261,578349,Cash,C4798
+T00058,2023-07-06,Refrigerator,Home Appliances,West,Offline,5,68527,342635,UPI,C6724
+T00059,2023-12-18,Camera,Electronics,South,Offline,6,62420,374520,Cash,C6258
+T00060,2024-10-13,Keyboard,Electronics,East,Online,2,65014,130028,Debit Card,C2105
+T00061,2024-02-12,Mobile,Electronics,West,Offline,5,41663,208315,Net Banking,C3593
+T00062,2023-12-05,Tablet,Electronics,South,Offline,3,42048,126144,Debit Card,C1194
+T00063,2023-03-22,Printer,Electronics,West,Offline,8,50998,407984,Cash,C9311
+T00064,2023-11-24,Keyboard,Electronics,Central,Online,6,75000,450000,Credit Card,C6091
+T00065,2025-01-07,Shoes,Fashion,Central,Offline,4,68032,272128,Credit Card,C5336
+T00066,2024-07-04,Shoes,Fashion,South,Online,3,32969,98907,UPI,C6231
+T00067,2024-01-22,Monitor,Electronics,Central,Online,1,68979,68979,Debit Card,C8664
+T00068,2024-04-06,Camera,Electronics,South,Offline,9,24299,218691,Net Banking,C5430
+T00069,2023-08-09,Keyboard,Electronics,East,Offline,6,75422,452532,Credit Card,C4840
+T00070,2025-05-24,Printer,Electronics,East,Online,4,5501,22004,Net Banking,C1876
+T00071,2024-12-17,Laptop,Electronics,Central,Online,1,46659,46659,Cash,C1765
+T00072,2024-10-17,Monitor,Electronics,West,Offline,2,31264,62528,Cash,C3068
+T00073,2023-09-08,Keyboard,Electronics,East,Online,7,72035,504245,Credit Card,C2662
+T00074,2023-10-16,Watch,Accessories,Central,Offline,8,37049,296392,Net Banking,C7894
+T00075,2025-05-08,Shoes,Fashion,North,Offline,6,43186,259116,Debit Card,C9721
+T00076,2025-05-12,Shoes,Fashion,South,Offline,8,62509,500072,Cash,C5366
+T00077,2023-12-13,Shoes,Fashion,West,Offline,1,44573,44573,UPI,C7712
+T00078,2023-02-06,Mouse,Electronics,North,Online,6,15353,92118,Net Banking,C9439
+T00079,2023-01-02,Mouse,Electronics,South,Offline,8,1667,13336,Net Banking,C5592
+T00080,2023-07-25,Mobile,Electronics,Central,Offline,9,13482,121338,Cash,C1263
+T00081,2025-03-08,Mouse,Electronics,South,Online,5,32796,163980,Cash,C2436
+T00082,2025-05-14,Monitor,Electronics,East,Offline,10,73740,737400,Credit Card,C7816
+T00083,2023-07-09,Printer,Electronics,South,Online,7,5390,37730,UPI,C8219
+T00084,2023-12-31,Mobile,Electronics,North,Online,2,8505,17010,Net Banking,C3903
+T00085,2023-03-27,Backpack,Accessories,North,Offline,5,27049,135245,Debit Card,C4642
+T00086,2023-10-26,Mobile,Electronics,South,Offline,3,79584,238752,Cash,C7596
+T00087,2024-06-26,T-Shirt,Fashion,South,Offline,1,16747,16747,Cash,C4857
+T00088,2024-10-28,Keyboard,Electronics,West,Offline,5,36706,183530,Debit Card,C5767
+T00089,2024-12-08,Keyboard,Electronics,South,Online,2,36666,73332,Net Banking,C2597
+T00090,2025-04-06,Backpack,Accessories,West,Offline,7,48089,336623,UPI,C5481
+T00091,2023-01-24,Air Conditioner,Home Appliances,South,Online,9,57710,519390,Cash,C1486
+T00092,2023-12-02,Monitor,Electronics,North,Offline,4,47128,188512,Credit Card,C6960
+T00093,2023-02-01,Mobile,Electronics,East,Offline,3,50693,152079,Debit Card,C7500
+T00094,2025-04-29,T-Shirt,Fashion,Central,Offline,3,11556,34668,Credit Card,C4531
+T00095,2024-09-17,Shoes,Fashion,East,Offline,10,11914,119140,Cash,C2647
+T00096,2024-05-10,Mobile,Electronics,South,Offline,10,20856,208560,Debit Card,C4374
+T00097,2023-08-22,Monitor,Electronics,East,Offline,9,55007,495063,Debit Card,C2082
+T00098,2023-12-09,T-Shirt,Fashion,West,Offline,8,8354,66832,Cash,C8163
+T00099,2025-01-29,Shoes,Fashion,West,Offline,5,1820,9100,Cash,C1052
+T00100,2024-01-17,Air Conditioner,Home Appliances,East,Offline,6,7510,45060,Debit Card,C3442
+T00101,2024-09-10,Camera,Electronics,South,Offline,5,35728,178640,Credit Card,C8417
+T00102,2024-08-21,Refrigerator,Home Appliances,South,Offline,5,28408,142040,Cash,C8631
+T00103,2024-07-10,Air Conditioner,Home Appliances,Central,Offline,7,45702,319914,Cash,C7732
+T00104,2023-03-30,Laptop,Electronics,East,Online,4,65188,260752,UPI,C8152
+T00105,2023-02-23,Printer,Electronics,North,Offline,10,73005,730050,Net Banking,C5762
+T00106,2024-12-01,Tablet,Electronics,Central,Offline,8,38713,309704,Debit Card,C7952
+T00107,2023-02-17,Camera,Electronics,West,Online,5,63139,315695,Credit Card,C2940
+T00108,2025-05-31,Camera,Electronics,Central,Offline,10,23310,233100,Debit Card,C3176
+T00109,2023-08-22,Air Conditioner,Home Appliances,Central,Offline,5,74827,374135,Credit Card,C7335
+T00110,2024-02-19,Laptop,Electronics,East,Offline,5,35852,179260,Net Banking,C7804
+T00111,2024-03-18,Headphones,Electronics,South,Online,2,72758,145516,Net Banking,C8107
+T00112,2023-05-22,Shoes,Fashion,East,Offline,9,30264,272376,Debit Card,C7269
+T00113,2024-07-05,Printer,Electronics,North,Offline,6,71590,429540,UPI,C2931
+T00114,2024-03-29,T-Shirt,Fashion,South,Online,10,37330,373300,UPI,C7350
+T00115,2023-12-06,Monitor,Electronics,South,Offline,1,64231,64231,Cash,C6327
+T00116,2024-02-14,Watch,Accessories,East,Online,8,11917,95336,UPI,C9900
+T00117,2023-07-13,T-Shirt,Fashion,North,Online,6,49181,295086,Cash,C4840
+T00118,2023-12-05,Air Conditioner,Home Appliances,East,Offline,7,45365,317555,UPI,C4597
+T00119,2023-11-08,Watch,Accessories,South,Offline,3,60892,182676,UPI,C9571
+T00120,2023-09-11,Watch,Accessories,West,Offline,10,39797,397970,UPI,C2521
+T00121,2023-01-11,Laptop,Electronics,West,Offline,1,22609,22609,Debit Card,C6943
+T00122,2024-05-16,Monitor,Electronics,South,Offline,5,12037,60185,Credit Card,C1691
+T00123,2024-08-11,Mobile,Electronics,West,Online,4,37273,149092,Debit Card,C2215
+T00124,2024-12-19,Headphones,Electronics,North,Online,10,67333,673330,Net Banking,C9646
+T00125,2024-04-10,Tablet,Electronics,North,Online,6,10892,65352,Credit Card,C6363
+T00126,2024-10-02,Mouse,Electronics,North,Online,4,3058,12232,UPI,C6221
+T00127,2024-12-27,T-Shirt,Fashion,East,Offline,3,35046,105138,Debit Card,C1078
+T00128,2024-09-14,Tablet,Electronics,North,Online,4,26147,104588,Credit Card,C8112
+T00129,2024-12-15,Air Conditioner,Home Appliances,Central,Online,2,58493,116986,Net Banking,C3639
+T00130,2024-09-06,Keyboard,Electronics,North,Offline,9,20805,187245,Cash,C6770
+T00131,2024-10-02,Laptop,Electronics,Central,Offline,3,37967,113901,Cash,C3871
+T00132,2023-03-25,Camera,Electronics,West,Offline,6,33242,199452,UPI,C4872
+T00133,2024-08-16,Tablet,Electronics,East,Online,5,64575,322875,Debit Card,C5791
+T00134,2023-05-18,Refrigerator,Home Appliances,Central,Offline,6,21698,130188,Net Banking,C1465
+T00135,2023-01-03,Monitor,Electronics,Central,Online,10,11845,118450,UPI,C8554
+T00136,2025-03-14,Camera,Electronics,North,Online,3,1612,4836,Cash,C8691
+T00137,2023-11-08,Camera,Electronics,South,Offline,10,26389,263890,Net Banking,C6365
+T00138,2025-05-06,Mouse,Electronics,West,Online,2,74749,149498,Net Banking,C5711
+T00139,2023-06-18,Printer,Electronics,Central,Offline,9,24023,216207,Net Banking,C9736
+T00140,2024-11-06,Tablet,Electronics,South,Offline,7,61916,433412,Cash,C4504
+T00141,2023-07-11,Refrigerator,Home Appliances,North,Online,9,37382,336438,Cash,C8894
+T00142,2023-04-23,Printer,Electronics,Central,Offline,2,3243,6486,Net Banking,C2934
+T00143,2023-04-24,Refrigerator,Home Appliances,West,Offline,4,63781,255124,Net Banking,C9272
+T00144,2023-11-13,Shoes,Fashion,West,Online,9,78371,705339,UPI,C6126
+T00145,2025-02-02,Mouse,Electronics,East,Online,9,16400,147600,Debit Card,C3544
+T00146,2024-05-14,Printer,Electronics,West,Online,1,46234,46234,Debit Card,C5092
+T00147,2024-02-20,Keyboard,Electronics,East,Online,9,69167,622503,Cash,C8884
+T00148,2023-09-18,Headphones,Electronics,North,Online,7,26125,182875,Net Banking,C8308
+T00149,2023-05-14,Watch,Accessories,South,Offline,9,65640,590760,Credit Card,C9129
+T00150,2024-03-03,Headphones,Electronics,Central,Online,4,64230,256920,Net Banking,C1979
+T00151,2023-01-19,Printer,Electronics,East,Online,5,74205,371025,Credit Card,C5610
+T00152,2023-12-13,Air Conditioner,Home Appliances,Central,Offline,9,14758,132822,Debit Card,C5034
+T00153,2025-01-30,Tablet,Electronics,Central,Online,2,47554,95108,Credit Card,C8533
+T00154,2025-03-14,Backpack,Accessories,North,Offline,8,47653,381224,Net Banking,C5898
+T00155,2023-10-06,Camera,Electronics,West,Online,9,27288,245592,UPI,C8385
+T00156,2023-10-23,Mouse,Electronics,Central,Offline,5,77144,385720,Debit Card,C6067
+T00157,2023-10-20,Keyboard,Electronics,North,Online,4,42556,170224,UPI,C3428
+T00158,2023-03-10,Camera,Electronics,South,Offline,7,73953,517671,Cash,C4870
+T00159,2024-11-17,Tablet,Electronics,North,Offline,6,21460,128760,Cash,C6766
+T00160,2024-09-02,Laptop,Electronics,East,Online,8,61774,494192,Debit Card,C3055
+T00161,2023-08-01,T-Shirt,Fashion,West,Offline,2,71444,142888,Cash,C8408
+T00162,2024-10-09,Air Conditioner,Home Appliances,East,Online,2,30883,61766,Credit Card,C1718
+T00163,2023-08-22,Mouse,Electronics,East,Online,7,47009,329063,UPI,C9054
+T00164,2024-10-12,Refrigerator,Home Appliances,Central,Offline,3,29267,87801,Cash,C4935
+T00165,2023-09-13,Air Conditioner,Home Appliances,North,Online,9,40845,367605,Cash,C3930
+T00166,2023-06-30,Headphones,Electronics,North,Offline,5,29594,147970,Cash,C5938
+T00167,2023-09-12,Watch,Accessories,South,Offline,6,68638,411828,Net Banking,C2905
+T00168,2024-09-16,Tablet,Electronics,South,Online,1,42614,42614,UPI,C1588
+T00169,2024-07-30,Printer,Electronics,Central,Online,7,67606,473242,Net Banking,C8811
+T00170,2023-03-22,Camera,Electronics,South,Offline,4,47809,191236,Cash,C2558
+T00171,2024-07-27,Shoes,Fashion,Central,Offline,8,43320,346560,Cash,C1898
+T00172,2024-05-05,Mobile,Electronics,West,Offline,1,51781,51781,Debit Card,C7937
+T00173,2024-12-13,Monitor,Electronics,East,Online,8,19186,153488,Cash,C2450
+T00174,2023-08-11,Monitor,Electronics,South,Offline,10,35416,354160,Net Banking,C2261
+T00175,2023-06-05,Watch,Accessories,East,Offline,2,49807,99614,Cash,C2623
+T00176,2023-06-18,Printer,Electronics,North,Offline,1,54642,54642,Credit Card,C2261
+T00177,2023-12-15,Tablet,Electronics,East,Offline,1,57028,57028,Credit Card,C8049
+T00178,2023-05-22,Mouse,Electronics,South,Offline,4,27428,109712,Net Banking,C9008
+T00179,2024-06-16,Mobile,Electronics,South,Offline,6,64655,387930,Net Banking,C3256
+T00180,2024-10-07,Refrigerator,Home Appliances,West,Offline,6,79704,478224,Cash,C2724
+T00181,2025-01-09,Shoes,Fashion,East,Offline,5,5418,27090,UPI,C3660
+T00182,2024-12-23,T-Shirt,Fashion,East,Online,10,20475,204750,Credit Card,C4140
+T00183,2024-09-15,Backpack,Accessories,East,Offline,9,79330,713970,Cash,C3863
+T00184,2024-09-06,Air Conditioner,Home Appliances,West,Offline,3,54106,162318,UPI,C1471
+T00185,2025-04-16,Printer,Electronics,Central,Online,10,50862,508620,Cash,C3408
+T00186,2024-08-28,Monitor,Electronics,Central,Online,5,6283,31415,Credit Card,C7363
+T00187,2023-08-19,Camera,Electronics,West,Offline,4,42774,171096,Credit Card,C8724
+T00188,2023-11-17,Laptop,Electronics,West,Offline,9,31227,281043,Net Banking,C9479
+T00189,2023-01-14,Laptop,Electronics,West,Offline,1,39518,39518,UPI,C9708
+T00190,2023-01-13,Headphones,Electronics,West,Offline,9,31210,280890,Cash,C7200
+T00191,2024-10-18,Backpack,Accessories,South,Offline,5,5320,26600,Cash,C9352
+T00192,2025-05-09,Shoes,Fashion,West,Offline,4,2446,9784,UPI,C4771
+T00193,2024-06-30,T-Shirt,Fashion,South,Offline,2,75889,151778,Net Banking,C9770
+T00194,2024-03-17,Mobile,Electronics,South,Online,2,27741,55482,Credit Card,C5947
+T00195,2024-12-05,Monitor,Electronics,West,Online,3,77316,231948,Net Banking,C9732
+T00196,2025-04-11,Headphones,Electronics,Central,Offline,10,52743,527430,Cash,C2252
+T00197,2024-12-11,Laptop,Electronics,West,Online,3,72338,217014,UPI,C3616
+T00198,2024-06-07,Shoes,Fashion,North,Offline,1,48647,48647,Debit Card,C7008
+T00199,2024-10-28,Refrigerator,Home Appliances,South,Offline,1,16200,16200,Cash,C3938
+T00200,2024-12-10,Monitor,Electronics,North,Offline,8,43962,351696,UPI,C5899
+T00201,2023-12-17,Headphones,Electronics,Central,Online,3,77809,233427,UPI,C3597
+T00202,2024-04-20,Printer,Electronics,North,Online,5,70414,352070,Debit Card,C7942
+T00203,2025-03-28,Mouse,Electronics,West,Offline,10,25750,257500,Net Banking,C4511
+T00204,2023-11-07,Mouse,Electronics,West,Offline,7,41202,288414,Cash,C7603
+T00205,2023-06-24,T-Shirt,Fashion,South,Offline,3,35492,106476,Cash,C5144
+T00206,2023-09-06,Camera,Electronics,Central,Offline,7,63460,444220,Net Banking,C9567
+T00207,2023-10-02,Camera,Electronics,Central,Offline,4,66033,264132,Net Banking,C6136
+T00208,2023-07-31,Watch,Accessories,East,Online,4,69453,277812,UPI,C9074
+T00209,2023-10-27,Refrigerator,Home Appliances,North,Online,1,47732,47732,Cash,C5502
+T00210,2023-06-05,Shoes,Fashion,South,Online,8,18205,145640,UPI,C2204
+T00211,2023-10-12,Monitor,Electronics,North,Online,7,47603,333221,Net Banking,C8157
+T00212,2023-05-27,Mouse,Electronics,East,Online,3,3687,11061,Net Banking,C5164
+T00213,2024-07-09,Laptop,Electronics,West,Offline,10,28442,284420,Net Banking,C4822
+T00214,2024-02-16,Watch,Accessories,West,Offline,1,68479,68479,Cash,C2740
+T00215,2023-03-17,Monitor,Electronics,East,Offline,10,59151,591510,Net Banking,C6961
+T00216,2023-03-01,Printer,Electronics,West,Offline,8,74527,596216,Cash,C2210
+T00217,2023-10-21,Printer,Electronics,Central,Online,3,73728,221184,UPI,C6263
+T00218,2023-02-23,Watch,Accessories,East,Online,8,78361,626888,Debit Card,C5993
+T00219,2024-04-10,Air Conditioner,Home Appliances,South,Offline,9,5787,52083,UPI,C2450
+T00220,2025-02-05,Watch,Accessories,West,Online,9,68551,616959,Cash,C1856
+T00221,2025-03-31,Monitor,Electronics,East,Offline,4,10618,42472,Cash,C7233
+T00222,2024-04-28,Mobile,Electronics,North,Offline,8,33403,267224,Cash,C2304
+T00223,2024-08-17,T-Shirt,Fashion,South,Offline,1,53427,53427,Credit Card,C7557
+T00224,2023-04-19,Air Conditioner,Home Appliances,East,Online,10,26073,260730,Net Banking,C4924
+T00225,2023-04-15,T-Shirt,Fashion,East,Offline,3,27393,82179,UPI,C6576
+T00226,2024-08-02,Mouse,Electronics,East,Offline,9,16952,152568,Credit Card,C1858
+T00227,2025-05-25,Headphones,Electronics,South,Offline,3,8372,25116,UPI,C6701
+T00228,2024-12-05,Camera,Electronics,West,Offline,10,17881,178810,Credit Card,C3064
+T00229,2024-09-23,Tablet,Electronics,South,Offline,3,26023,78069,Net Banking,C9284
+T00230,2024-03-11,Laptop,Electronics,South,Online,8,8884,71072,Net Banking,C1198
+T00231,2023-11-06,T-Shirt,Fashion,West,Offline,1,17976,17976,Credit Card,C9336
+T00232,2025-02-23,Mouse,Electronics,Central,Offline,6,75494,452964,UPI,C3142
+T00233,2023-02-21,Camera,Electronics,North,Online,8,34554,276432,Credit Card,C8823
+T00234,2024-07-22,Monitor,Electronics,West,Offline,2,19488,38976,Credit Card,C1063
+T00235,2023-08-11,Monitor,Electronics,West,Online,7,11049,77343,Net Banking,C6977
+T00236,2023-07-20,Watch,Accessories,East,Offline,4,54408,217632,Credit Card,C3054
+T00237,2024-02-04,Watch,Accessories,South,Offline,3,65691,197073,UPI,C9151
+T00238,2024-06-11,Air Conditioner,Home Appliances,East,Offline,1,72059,72059,Credit Card,C2277
+T00239,2024-06-13,Mobile,Electronics,West,Online,4,64437,257748,Cash,C1384
+T00240,2024-08-31,Monitor,Electronics,North,Online,6,47386,284316,Debit Card,C6889
+T00241,2023-02-20,Refrigerator,Home Appliances,North,Offline,9,26628,239652,Credit Card,C1028
+T00242,2023-04-11,Printer,Electronics,South,Online,4,31031,124124,Cash,C4368
+T00243,2024-03-03,Headphones,Electronics,South,Online,2,76797,153594,UPI,C2802
+T00244,2024-02-12,Backpack,Accessories,East,Offline,6,33957,203742,Debit Card,C1245
+T00245,2023-05-16,Headphones,Electronics,Central,Online,3,13495,40485,Debit Card,C9362
+T00246,2023-05-15,Mobile,Electronics,North,Offline,6,63633,381798,Debit Card,C7921
+T00247,2023-06-15,Headphones,Electronics,Central,Offline,5,28359,141795,UPI,C5357
+T00248,2025-05-22,Mobile,Electronics,Central,Offline,1,34192,34192,UPI,C2852
+T00249,2023-01-25,T-Shirt,Fashion,South,Online,6,19861,119166,Credit Card,C2748
+T00250,2024-10-02,Headphones,Electronics,South,Online,3,73848,221544,Net Banking,C3066
+T00251,2023-10-23,Laptop,Electronics,North,Online,1,16901,16901,Debit Card,C5726
+T00252,2023-06-15,T-Shirt,Fashion,Central,Offline,3,16683,50049,Cash,C4027
+T00253,2024-12-28,Shoes,Fashion,Central,Online,4,36929,147716,Net Banking,C6144
+T00254,2024-05-03,T-Shirt,Fashion,West,Offline,8,9247,73976,Cash,C5518
+T00255,2024-11-10,Shoes,Fashion,South,Online,6,45729,274374,Cash,C7238
+T00256,2024-03-14,Laptop,Electronics,East,Offline,5,25703,128515,Net Banking,C8252
+T00257,2024-04-08,T-Shirt,Fashion,South,Offline,5,75401,377005,Net Banking,C5375
+T00258,2023-08-14,Watch,Accessories,East,Online,6,2263,13578,Debit Card,C9769
+T00259,2025-01-13,Backpack,Accessories,West,Online,3,4381,13143,Cash,C3623
+T00260,2025-01-21,Refrigerator,Home Appliances,East,Online,6,29381,176286,Debit Card,C7796
+T00261,2023-06-25,Shoes,Fashion,South,Online,3,63253,189759,Credit Card,C2554
+T00262,2023-06-27,Monitor,Electronics,North,Online,1,1635,1635,Net Banking,C3086
+T00263,2023-03-30,Backpack,Accessories,East,Offline,7,63896,447272,Credit Card,C8933
+T00264,2023-10-11,Mouse,Electronics,East,Offline,4,51764,207056,Net Banking,C5364
+T00265,2025-06-13,Laptop,Electronics,South,Online,1,74898,74898,Net Banking,C8828
+T00266,2024-07-17,Camera,Electronics,West,Online,5,78150,390750,Net Banking,C3946
+T00267,2025-05-10,Air Conditioner,Home Appliances,East,Offline,9,65737,591633,UPI,C5106
+T00268,2025-01-20,Keyboard,Electronics,East,Offline,2,12694,25388,Debit Card,C3546
+T00269,2025-01-24,Laptop,Electronics,West,Offline,8,43420,347360,UPI,C8850
+T00270,2023-08-29,Watch,Accessories,North,Offline,5,34629,173145,Cash,C6791
+T00271,2025-05-08,Watch,Accessories,North,Online,7,57712,403984,Credit Card,C1681
+T00272,2023-10-16,Mobile,Electronics,West,Online,10,38669,386690,Cash,C2249
+T00273,2025-04-14,Monitor,Electronics,East,Online,6,14851,89106,Debit Card,C8126
+T00274,2024-11-16,Backpack,Accessories,West,Offline,8,3411,27288,Credit Card,C6340
+T00275,2024-03-22,Backpack,Accessories,North,Online,7,56803,397621,Net Banking,C2793
+T00276,2025-06-03,Backpack,Accessories,East,Offline,8,56269,450152,Debit Card,C7954
+T00277,2025-04-28,Laptop,Electronics,West,Online,1,30231,30231,Debit Card,C3137
+T00278,2025-03-26,Keyboard,Electronics,North,Offline,7,51783,362481,Credit Card,C2617
+T00279,2024-03-19,Camera,Electronics,East,Offline,1,75989,75989,Credit Card,C4728
+T00280,2024-12-14,T-Shirt,Fashion,South,Online,5,45486,227430,UPI,C3906
+T00281,2023-06-05,Refrigerator,Home Appliances,Central,Online,2,56098,112196,Debit Card,C6582
+T00282,2024-10-23,Shoes,Fashion,Central,Online,8,5818,46544,Credit Card,C2743
+T00283,2025-02-27,Laptop,Electronics,North,Online,6,60702,364212,UPI,C4382
+T00284,2025-04-19,Headphones,Electronics,South,Online,4,33773,135092,Net Banking,C1015
+T00285,2025-05-23,Air Conditioner,Home Appliances,East,Offline,7,69471,486297,Net Banking,C4548
+T00286,2023-02-14,Refrigerator,Home Appliances,South,Online,5,42180,210900,Debit Card,C4726
+T00287,2024-03-21,Shoes,Fashion,Central,Offline,9,8080,72720,UPI,C9304
+T00288,2024-01-05,Keyboard,Electronics,North,Online,10,11145,111450,Credit Card,C5046
+T00289,2025-02-18,Keyboard,Electronics,East,Offline,5,19349,96745,UPI,C6115
+T00290,2023-01-28,Watch,Accessories,East,Offline,1,27721,27721,Credit Card,C2172
+T00291,2024-04-08,Refrigerator,Home Appliances,North,Offline,9,8437,75933,Debit Card,C6798
+T00292,2023-08-29,Monitor,Electronics,East,Online,1,31624,31624,Credit Card,C4122
+T00293,2025-03-22,Refrigerator,Home Appliances,East,Offline,8,5678,45424,UPI,C4423
+T00294,2023-02-07,Laptop,Electronics,North,Offline,8,36804,294432,Debit Card,C4918
+T00295,2023-05-02,Air Conditioner,Home Appliances,West,Online,7,37210,260470,Credit Card,C8076
+T00296,2024-05-23,Air Conditioner,Home Appliances,East,Offline,5,31458,157290,UPI,C5136
+T00297,2023-09-18,Camera,Electronics,South,Online,10,65493,654930,Credit Card,C5838
+T00298,2024-02-19,Shoes,Fashion,West,Offline,4,7407,29628,UPI,C9212
+T00299,2023-11-10,Monitor,Electronics,East,Offline,1,42153,42153,Debit Card,C5867
+T00300,2023-03-28,Air Conditioner,Home Appliances,North,Offline,8,22659,181272,Net Banking,C2674
+T00301,2024-01-14,Headphones,Electronics,Central,Online,4,8627,34508,Credit Card,C4234
+T00302,2023-05-18,Air Conditioner,Home Appliances,Central,Online,5,35044,175220,Net Banking,C7020
+T00303,2023-01-14,Air Conditioner,Home Appliances,West,Online,3,52160,156480,Cash,C8094
+T00304,2023-11-20,Shoes,Fashion,North,Offline,7,40348,282436,UPI,C5346
+T00305,2025-03-11,Laptop,Electronics,North,Offline,6,10211,61266,UPI,C6595
+T00306,2024-07-24,Monitor,Electronics,West,Offline,10,32830,328300,Debit Card,C6278
+T00307,2023-12-06,Headphones,Electronics,West,Offline,8,53325,426600,Credit Card,C3346
+T00308,2024-10-01,Watch,Accessories,North,Offline,6,43948,263688,Cash,C4761
+T00309,2024-12-16,Watch,Accessories,West,Online,6,33946,203676,Cash,C9973
+T00310,2025-03-17,Keyboard,Electronics,North,Online,3,54265,162795,Net Banking,C5201
+T00311,2024-04-07,Printer,Electronics,Central,Offline,9,8152,73368,Net Banking,C8910
+T00312,2024-10-08,Tablet,Electronics,West,Online,1,75309,75309,Net Banking,C8302
+T00313,2025-02-13,Camera,Electronics,North,Offline,8,13802,110416,UPI,C3750
+T00314,2025-06-01,Keyboard,Electronics,Central,Offline,1,71278,71278,Credit Card,C2268
+T00315,2023-04-12,Backpack,Accessories,North,Online,10,7191,71910,Net Banking,C3488
+T00316,2023-09-18,Air Conditioner,Home Appliances,South,Online,10,39846,398460,Credit Card,C1080
+T00317,2023-01-11,Watch,Accessories,Central,Online,10,55027,550270,UPI,C3084
+T00318,2024-07-10,Tablet,Electronics,West,Online,10,3320,33200,Debit Card,C1009
+T00319,2023-10-05,Headphones,Electronics,West,Offline,3,16487,49461,Debit Card,C6054
+T00320,2024-10-16,Printer,Electronics,South,Online,7,66539,465773,Debit Card,C8300
+T00321,2023-11-22,Camera,Electronics,South,Offline,2,45879,91758,Credit Card,C7888
+T00322,2023-07-05,Laptop,Electronics,West,Offline,10,37935,379350,Debit Card,C1930
+T00323,2024-06-24,Backpack,Accessories,North,Online,10,19971,199710,Net Banking,C9003
+T00324,2025-04-17,Backpack,Accessories,West,Offline,6,71408,428448,Debit Card,C1919
+T00325,2024-02-02,Laptop,Electronics,West,Online,4,8680,34720,Net Banking,C4094
+T00326,2023-03-24,Refrigerator,Home Appliances,North,Offline,2,73709,147418,Cash,C1040
+T00327,2023-05-03,Monitor,Electronics,Central,Offline,4,62032,248128,Credit Card,C1050
+T00328,2025-01-29,Mobile,Electronics,South,Online,2,55248,110496,Cash,C2283
+T00329,2023-07-20,Watch,Accessories,West,Online,1,45590,45590,UPI,C6590
+T00330,2025-01-29,Camera,Electronics,North,Offline,3,2079,6237,Cash,C7779
+T00331,2024-09-15,Shoes,Fashion,North,Online,1,79288,79288,Cash,C8412
+T00332,2024-12-30,Backpack,Accessories,Central,Online,7,63580,445060,Credit Card,C7607
+T00333,2024-08-22,Tablet,Electronics,East,Offline,4,17559,70236,UPI,C7378
+T00334,2023-08-30,Headphones,Electronics,Central,Offline,1,31650,31650,Debit Card,C5050
+T00335,2025-05-15,Watch,Accessories,North,Online,6,40880,245280,Credit Card,C5475
+T00336,2024-04-19,T-Shirt,Fashion,South,Online,9,59487,535383,Net Banking,C8741
+T00337,2024-05-02,Printer,Electronics,South,Offline,1,79894,79894,Cash,C1491
+T00338,2025-05-20,Keyboard,Electronics,West,Online,8,34053,272424,Credit Card,C9047
+T00339,2025-04-06,Printer,Electronics,Central,Offline,10,71707,717070,Cash,C3416
+T00340,2023-06-25,Tablet,Electronics,East,Online,1,13280,13280,UPI,C3544
+T00341,2024-07-28,T-Shirt,Fashion,South,Offline,8,54716,437728,Cash,C6669
+T00342,2023-03-11,Refrigerator,Home Appliances,North,Offline,5,55946,279730,Debit Card,C4062
+T00343,2024-05-19,Laptop,Electronics,South,Online,1,61586,61586,Debit Card,C9618
+T00344,2024-04-21,Keyboard,Electronics,Central,Online,8,42384,339072,Credit Card,C8978
+T00345,2023-06-11,Watch,Accessories,East,Online,7,70774,495418,UPI,C8702
+T00346,2023-08-17,Mobile,Electronics,West,Offline,3,22930,68790,Debit Card,C3275
+T00347,2024-10-07,T-Shirt,Fashion,West,Online,9,55719,501471,Debit Card,C6346
+T00348,2025-04-24,Printer,Electronics,North,Offline,3,47334,142002,Cash,C3306
+T00349,2023-10-08,Keyboard,Electronics,West,Online,1,54813,54813,Cash,C2611
+T00350,2024-08-17,Shoes,Fashion,East,Offline,3,19392,58176,Debit Card,C5516
+T00351,2023-09-19,Printer,Electronics,South,Offline,9,66915,602235,Net Banking,C4785
+T00352,2024-07-01,Tablet,Electronics,West,Offline,3,13892,41676,Net Banking,C5330
+T00353,2025-02-15,Headphones,Electronics,North,Online,7,57141,399987,Debit Card,C6419
+T00354,2024-09-06,Mouse,Electronics,West,Offline,6,27661,165966,Debit Card,C8634
+T00355,2025-01-11,Camera,Electronics,South,Offline,5,18998,94990,Net Banking,C3800
+T00356,2023-01-03,Watch,Accessories,North,Offline,10,27108,271080,UPI,C7606
+T00357,2024-08-27,Air Conditioner,Home Appliances,West,Online,1,7881,7881,Credit Card,C5426
+T00358,2025-06-17,Monitor,Electronics,East,Offline,7,29060,203420,Credit Card,C2398
+T00359,2025-03-29,Mobile,Electronics,South,Offline,8,73597,588776,Net Banking,C8402
+T00360,2023-11-26,Mobile,Electronics,South,Online,9,32293,290637,Credit Card,C5795
+T00361,2024-02-05,Air Conditioner,Home Appliances,East,Offline,10,57370,573700,Debit Card,C4195
+T00362,2024-01-21,Air Conditioner,Home Appliances,West,Offline,8,64517,516136,Cash,C5849
+T00363,2024-10-18,Shoes,Fashion,East,Offline,1,64085,64085,Net Banking,C9858
+T00364,2025-01-03,Refrigerator,Home Appliances,West,Offline,4,71778,287112,Cash,C9764
+T00365,2024-01-09,Refrigerator,Home Appliances,West,Offline,8,32154,257232,Credit Card,C8994
+T00366,2023-07-13,Laptop,Electronics,South,Offline,3,17603,52809,Credit Card,C1246
+T00367,2024-05-30,Shoes,Fashion,South,Offline,1,69675,69675,Net Banking,C3511
+T00368,2024-05-18,Mouse,Electronics,North,Online,1,13294,13294,Credit Card,C1073
+T00369,2025-03-22,Watch,Accessories,South,Online,7,59413,415891,Credit Card,C8898
+T00370,2025-02-14,T-Shirt,Fashion,Central,Offline,1,3479,3479,Debit Card,C4467
+T00371,2024-05-25,Monitor,Electronics,Central,Online,5,78298,391490,Credit Card,C3445
+T00372,2024-08-30,Monitor,Electronics,South,Offline,4,37373,149492,Debit Card,C7863
+T00373,2024-11-20,Mobile,Electronics,West,Online,1,18664,18664,UPI,C2733
+T00374,2025-02-07,Printer,Electronics,East,Offline,4,62769,251076,Net Banking,C4720
+T00375,2025-01-07,Tablet,Electronics,North,Online,8,37315,298520,Cash,C8013
+T00376,2023-04-25,Laptop,Electronics,East,Online,5,36784,183920,Credit Card,C3423
+T00377,2023-04-13,Air Conditioner,Home Appliances,Central,Online,7,52693,368851,Credit Card,C7527
+T00378,2023-07-27,T-Shirt,Fashion,West,Online,6,58740,352440,UPI,C1211
+T00379,2023-01-19,Backpack,Accessories,North,Online,1,68604,68604,Cash,C7309
+T00380,2025-05-27,Camera,Electronics,East,Offline,3,72904,218712,Credit Card,C7150
+T00381,2024-05-02,Headphones,Electronics,East,Online,4,7306,29224,UPI,C2091
+T00382,2023-10-13,Headphones,Electronics,Central,Offline,9,15746,141714,Credit Card,C1075
+T00383,2025-05-20,Shoes,Fashion,East,Online,1,34734,34734,Cash,C7063
+T00384,2025-06-15,Camera,Electronics,East,Offline,8,75869,606952,Net Banking,C9728
+T00385,2024-06-18,Headphones,Electronics,East,Online,8,48724,389792,Cash,C7442
+T00386,2023-04-18,Air Conditioner,Home Appliances,West,Online,6,6357,38142,Credit Card,C4690
+T00387,2023-12-12,Mouse,Electronics,West,Online,10,33149,331490,Cash,C6422
+T00388,2024-01-12,Monitor,Electronics,North,Online,7,3418,23926,UPI,C6355
+T00389,2023-12-13,Keyboard,Electronics,East,Online,3,51448,154344,Credit Card,C4949
+T00390,2023-05-06,Mobile,Electronics,West,Offline,3,45091,135273,UPI,C2779
+T00391,2023-10-01,Laptop,Electronics,West,Offline,5,46342,231710,Credit Card,C2701
+T00392,2023-04-11,Monitor,Electronics,West,Offline,8,57446,459568,Debit Card,C1108
+T00393,2023-01-09,Monitor,Electronics,North,Online,4,56685,226740,Net Banking,C3364
+T00394,2023-05-22,Shoes,Fashion,South,Online,9,39561,356049,Debit Card,C6213
+T00395,2024-10-07,Laptop,Electronics,North,Online,9,49946,449514,Cash,C7862
+T00396,2023-07-19,Keyboard,Electronics,South,Offline,7,75247,526729,Cash,C2650
+T00397,2025-05-15,Refrigerator,Home Appliances,Central,Offline,3,47313,141939,Cash,C5884
+T00398,2024-10-29,Monitor,Electronics,South,Online,8,40268,322144,Cash,C2445
+T00399,2024-05-16,Printer,Electronics,East,Online,9,18560,167040,Net Banking,C2779
+T00400,2023-11-21,Headphones,Electronics,North,Online,6,79227,475362,Credit Card,C3024
+T00401,2025-06-16,Camera,Electronics,West,Online,10,17479,174790,UPI,C1629
+T00402,2023-02-01,Monitor,Electronics,West,Online,7,54428,380996,Credit Card,C9339
+T00403,2024-08-08,Printer,Electronics,North,Offline,8,79635,637080,Cash,C3459
+T00404,2025-04-11,Tablet,Electronics,South,Online,9,73862,664758,Cash,C3875
+T00405,2025-02-03,Shoes,Fashion,East,Online,8,68186,545488,Debit Card,C6685
+T00406,2025-05-14,Tablet,Electronics,West,Offline,1,22315,22315,Credit Card,C7763
+T00407,2025-03-03,Backpack,Accessories,Central,Offline,8,20585,164680,UPI,C6511
+T00408,2023-10-13,Camera,Electronics,South,Offline,9,34210,307890,UPI,C8973
+T00409,2023-11-02,T-Shirt,Fashion,Central,Online,10,37528,375280,Net Banking,C7387
+T00410,2025-06-18,Tablet,Electronics,East,Offline,3,64973,194919,Debit Card,C3599
+T00411,2024-07-19,Refrigerator,Home Appliances,North,Offline,8,10328,82624,Cash,C6642
+T00412,2025-02-24,Tablet,Electronics,Central,Online,7,46995,328965,Cash,C2254
+T00413,2023-06-16,Mouse,Electronics,West,Online,6,52132,312792,UPI,C9818
+T00414,2023-10-12,Keyboard,Electronics,North,Online,3,46547,139641,Debit Card,C2601
+T00415,2024-02-22,Watch,Accessories,West,Online,3,53128,159384,Net Banking,C3747
+T00416,2024-03-04,Backpack,Accessories,East,Online,8,7357,58856,Net Banking,C5461
+T00417,2025-05-10,Laptop,Electronics,West,Offline,1,45153,45153,Credit Card,C4804
+T00418,2024-05-29,T-Shirt,Fashion,North,Online,9,53843,484587,UPI,C1474
+T00419,2023-02-23,Tablet,Electronics,West,Offline,1,13562,13562,Debit Card,C8590
+T00420,2023-01-17,Camera,Electronics,South,Online,7,8775,61425,Debit Card,C4339
+T00421,2023-06-19,Headphones,Electronics,South,Offline,10,41767,417670,Credit Card,C1209
+T00422,2025-05-19,Monitor,Electronics,East,Online,9,75990,683910,Cash,C7107
+T00423,2024-05-08,Headphones,Electronics,West,Online,4,64696,258784,Cash,C7007
+T00424,2023-04-06,Backpack,Accessories,North,Online,1,55794,55794,UPI,C7950
+T00425,2023-02-01,Refrigerator,Home Appliances,West,Offline,6,36538,219228,UPI,C2302
+T00426,2024-04-21,Backpack,Accessories,Central,Offline,6,22690,136140,UPI,C7558
+T00427,2025-03-30,Shoes,Fashion,East,Offline,1,66874,66874,Net Banking,C4355
+T00428,2024-01-19,Mobile,Electronics,Central,Online,8,61548,492384,Debit Card,C9449
+T00429,2025-03-05,Laptop,Electronics,East,Offline,3,37681,113043,Cash,C8405
+T00430,2024-11-05,Camera,Electronics,South,Online,9,11264,101376,Credit Card,C9331
+T00431,2024-10-10,Backpack,Accessories,East,Offline,4,47711,190844,UPI,C9354
+T00432,2024-04-03,Mouse,Electronics,North,Online,10,37667,376670,Net Banking,C6553
+T00433,2023-02-17,Watch,Accessories,West,Online,1,64916,64916,Net Banking,C1261
+T00434,2023-06-19,Backpack,Accessories,South,Offline,3,54587,163761,UPI,C1543
+T00435,2025-02-26,Keyboard,Electronics,South,Online,6,62144,372864,Net Banking,C3373
+T00436,2023-10-04,Laptop,Electronics,East,Offline,5,15450,77250,UPI,C7521
+T00437,2024-09-21,Refrigerator,Home Appliances,North,Online,3,50207,150621,UPI,C9780
+T00438,2024-03-06,Printer,Electronics,North,Online,3,23063,69189,Debit Card,C6154
+T00439,2025-05-03,Tablet,Electronics,South,Online,7,8936,62552,Net Banking,C8532
+T00440,2025-03-26,Shoes,Fashion,North,Offline,8,23494,187952,Credit Card,C9940
+T00441,2024-12-25,Air Conditioner,Home Appliances,North,Offline,1,36672,36672,Net Banking,C8073
+T00442,2023-12-31,Air Conditioner,Home Appliances,East,Offline,10,72915,729150,Net Banking,C9759
+T00443,2024-09-19,Refrigerator,Home Appliances,East,Offline,5,21944,109720,UPI,C8092
+T00444,2024-04-06,Backpack,Accessories,Central,Offline,6,34708,208248,Credit Card,C5085
+T00445,2025-01-09,Refrigerator,Home Appliances,Central,Online,9,35914,323226,Credit Card,C8866
+T00446,2024-05-28,Printer,Electronics,West,Online,9,21906,197154,UPI,C5062
+T00447,2025-03-14,Mobile,Electronics,South,Offline,9,72817,655353,Credit Card,C6935
+T00448,2023-12-29,Camera,Electronics,East,Offline,2,12846,25692,UPI,C6210
+T00449,2024-08-31,Mobile,Electronics,Central,Online,7,37021,259147,Net Banking,C8467
+T00450,2025-01-08,Monitor,Electronics,East,Offline,9,12182,109638,Debit Card,C2075
+T00451,2023-01-30,Tablet,Electronics,Central,Online,2,26845,53690,Debit Card,C3926
+T00452,2024-05-22,Printer,Electronics,North,Online,9,1346,12114,Debit Card,C2517
+T00453,2025-02-24,Air Conditioner,Home Appliances,Central,Offline,6,7163,42978,Credit Card,C9208
+T00454,2024-10-15,Keyboard,Electronics,North,Offline,7,41564,290948,UPI,C3547
+T00455,2024-05-26,Printer,Electronics,East,Offline,10,46656,466560,Credit Card,C7923
+T00456,2024-05-24,Headphones,Electronics,East,Offline,7,11178,78246,Credit Card,C9308
+T00457,2024-07-22,Laptop,Electronics,East,Online,5,34629,173145,Cash,C9263
+T00458,2023-03-13,Refrigerator,Home Appliances,South,Offline,1,634,634,UPI,C3413
+T00459,2025-03-17,Laptop,Electronics,Central,Online,4,41827,167308,Debit Card,C7037
+T00460,2025-01-09,Camera,Electronics,East,Offline,5,37671,188355,Credit Card,C8775
+T00461,2025-01-20,Shoes,Fashion,North,Offline,4,59767,239068,UPI,C5505
+T00462,2023-04-17,Mobile,Electronics,South,Online,2,7018,14036,Debit Card,C8359
+T00463,2023-10-25,Mouse,Electronics,West,Online,3,3509,10527,Debit Card,C9392
+T00464,2024-04-22,Monitor,Electronics,East,Online,4,13370,53480,UPI,C8000
+T00465,2024-02-11,Backpack,Accessories,North,Online,2,66109,132218,Cash,C8175
+T00466,2023-02-25,Headphones,Electronics,Central,Online,8,38577,308616,Credit Card,C9252
+T00467,2024-09-13,Watch,Accessories,Central,Offline,4,38576,154304,Cash,C5325
+T00468,2023-02-01,Refrigerator,Home Appliances,East,Offline,10,37861,378610,Cash,C7630
+T00469,2024-10-07,Camera,Electronics,East,Offline,7,74029,518203,Cash,C7937
+T00470,2025-03-14,T-Shirt,Fashion,West,Offline,9,70746,636714,Cash,C7846
+T00471,2024-12-20,Mobile,Electronics,Central,Offline,6,17582,105492,Debit Card,C3890
+T00472,2023-11-27,Camera,Electronics,East,Offline,6,26965,161790,Credit Card,C7857
+T00473,2023-02-02,Shoes,Fashion,Central,Online,1,38135,38135,Debit Card,C2454
+T00474,2024-02-28,Headphones,Electronics,South,Online,8,8749,69992,UPI,C8494
+T00475,2023-04-29,Mouse,Electronics,South,Offline,1,32049,32049,Credit Card,C1426
+T00476,2023-07-06,Tablet,Electronics,North,Online,7,63113,441791,Credit Card,C3396
+T00477,2023-11-04,Refrigerator,Home Appliances,South,Online,4,31843,127372,Credit Card,C6421
+T00478,2023-06-25,Watch,Accessories,South,Online,8,33561,268488,Cash,C6012
+T00479,2023-07-17,Watch,Accessories,East,Offline,4,17424,69696,Debit Card,C4393
+T00480,2023-06-02,Mobile,Electronics,South,Online,4,9542,38168,Cash,C1459
+T00481,2023-12-23,Printer,Electronics,South,Online,1,47676,47676,Net Banking,C3788
+T00482,2023-12-17,Tablet,Electronics,Central,Online,5,20498,102490,UPI,C2224
+T00483,2023-08-25,T-Shirt,Fashion,South,Offline,4,15435,61740,Net Banking,C3954
+T00484,2023-03-22,Tablet,Electronics,South,Offline,7,6893,48251,Credit Card,C6631
+T00485,2023-04-04,Air Conditioner,Home Appliances,Central,Online,7,30632,214424,Net Banking,C6056
+T00486,2023-11-29,T-Shirt,Fashion,South,Online,3,30118,90354,Debit Card,C8585
+T00487,2025-05-22,Watch,Accessories,South,Online,3,68231,204693,Cash,C9844
+T00488,2023-09-11,Printer,Electronics,North,Offline,10,69024,690240,UPI,C3107
+T00489,2023-01-05,Laptop,Electronics,South,Offline,3,66723,200169,Net Banking,C3904
+T00490,2024-06-25,Headphones,Electronics,West,Offline,5,78083,390415,Credit Card,C1563
+T00491,2025-06-12,Watch,Accessories,South,Online,1,8223,8223,Credit Card,C7246
+T00492,2024-04-07,Watch,Accessories,East,Offline,2,75327,150654,Debit Card,C3788
+T00493,2023-03-18,Watch,Accessories,East,Online,4,77630,310520,Debit Card,C7224
+T00494,2023-08-03,Air Conditioner,Home Appliances,South,Offline,4,67784,271136,Cash,C8898
+T00495,2024-10-31,Shoes,Fashion,West,Offline,2,11756,23512,UPI,C3715
+T00496,2023-10-10,Watch,Accessories,West,Offline,9,65656,590904,Cash,C7656
+T00497,2023-04-25,T-Shirt,Fashion,North,Online,1,1901,1901,Net Banking,C6993
+T00498,2024-09-13,Watch,Accessories,Central,Online,7,38640,270480,Debit Card,C6519
+T00499,2024-12-07,Air Conditioner,Home Appliances,East,Online,5,63788,318940,Cash,C4018
+T00500,2024-03-02,Mouse,Electronics,South,Offline,10,32332,323320,Debit Card,C6120
